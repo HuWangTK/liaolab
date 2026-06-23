@@ -1,7 +1,7 @@
 ---
 name: Xiangna Guan
 image: images/photo.jpg
-role: phd
+role: Phd
 group: biology
 ---
 
