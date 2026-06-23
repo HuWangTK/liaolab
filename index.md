@@ -1,9 +1,9 @@
 ---
 ---
 
-# HuWangTK's Website
-
-An engaging 1-3 sentence description of your lab.
+# Liaolab's Website
+<span style="font-size: 1.5em; font-weight: bold; color: #a0a0a0;">Research Focus</span>
+Our laboratory primarily focuses on the biological research of HPK1 as an anti-tumor target.
 
 {% include section.html %}
 
