@@ -2,7 +2,7 @@
 ---
 
 # Liaolab's Website
-<span style="font-size: 5em; font-weight: bold; color: #a0a0a0;">Research Focus</span>
+<span style="font-size: 5em; font-weight: bold; color: #a0a0a0;">Research Focus</span><br>
 Our laboratory primarily focuses on the biological research of HPK1 as an anti-tumor target.
 
 {% include section.html %}
