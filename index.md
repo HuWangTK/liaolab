@@ -1,7 +1,7 @@
 ---
 ---
 
-# Liaolab's Website
+# Liao-Lab
 <span style="font-size: 5em; font-weight: bold; color: #a0a0a0;">Research Focus</span><br>
 Our laboratory primarily focuses on the biological research of HPK1 as an anti-tumor target.
 
@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Publications"
   text=text
 %}
 
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Research Projects"
   flip=true
   style="bare"
   text=text
@@ -76,6 +76,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Lab Members"
   text=text
 %}
